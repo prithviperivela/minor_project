@@ -1,0 +1,1167 @@
+[
+  {
+    "id": "e6ed1644-26e9-4abb-86aa-e4df9e507c67",
+    "created_at": "2026-04-23T13:41:15.311097+00:00",
+    "client_name": "Demo Client",
+    "project_title": "Modern Living Room Upgrade",
+    "room_type": "Living Room",
+    "location": "Manipal",
+    "description": "I need a modern living room with warm lighting, wall panels, storage, repainting, and durable furniture. Budget should stay controlled and the work should be completed soon.",
+    "measurements": {
+      "length_ft": 14.0,
+      "width_ft": 12.0,
+      "height_ft": 10.0
+    },
+    "image_analysis": [
+      {
+        "file": "e6ed1644-26e9-4abb-86aa-e4df9e507c67-1.jpeg",
+        "url": "/uploads/e6ed1644-26e9-4abb-86aa-e4df9e507c67-1.jpeg",
+        "resolution": {
+          "width": 1599,
+          "height": 1200
+        },
+        "lighting": "moderate",
+        "brightness": 162.1,
+        "contrast": 21.3,
+        "dominant_colors": [
+          "grey",
+          "black",
+          "mixed neutral",
+          "red/terracotta"
+        ],
+        "layout_complexity": "low",
+        "edge_density": 4,
+        "surface_material_hints": [
+          "painted wall, tile, or concrete-like surface"
+        ],
+        "image_quality": "good"
+      }
+    ],
+    "requirements": {
+      "detected_rooms": [
+        "living room"
+      ],
+      "style_preferences": [
+        "modern"
+      ],
+      "work_items": [
+        "painting",
+        "lighting",
+        "furniture",
+        "wall treatment",
+        "storage"
+      ],
+      "priorities": [
+        "storage",
+        "lighting",
+        "budget",
+        "durable"
+      ],
+      "timeline": "urgent",
+      "budget_mentions": [],
+      "structured_summary": "Modern living room project covering painting, lighting, furniture, wall treatment, with focus on storage, lighting, budget."
+    },
+    "budget_analysis": {
+      "area_sqft": 168.0,
+      "wall_area_sqft": 520.0,
+      "project_size": "standard",
+      "budget": 180000.0,
+      "budget_per_sqft": 1071.43,
+      "budget_category": "medium",
+      "feasibility_score": 55,
+      "feasibility": "workable",
+      "recommendation": "Budget appears workable; finalize material grades before quotation."
+    },
+    "recommendations": [
+      "Budget appears workable; finalize material grades before quotation.",
+      "Validate wall dimensions and usable depth before finalizing storage modules."
+    ],
+    "contractor_discovery": {
+      "signal": "Contractor Discovery Confidence",
+      "score": 82,
+      "level": "high",
+      "impact": "Quoted scope quality drops when room constraints are inferred from sparse imagery.",
+      "action": "Ready for contractor shortlisting."
+    },
+    "marketplace_listing": {
+      "status": "conceptual listing generated",
+      "visible_to_contractors": true,
+      "quote_release_gate": "ready for quote release"
+    },
+    "contractor_matches": [
+      {
+        "id": "c1",
+        "name": "UrbanNest Interiors",
+        "specializations": [
+          "living room",
+          "bedroom",
+          "lighting",
+          "furniture"
+        ],
+        "rating": 4.7,
+        "reviews": 128,
+        "portfolio": "Modern apartments and compact family homes",
+        "base_multiplier": 1.08,
+        "match_score": 92,
+        "estimated_quote": 179000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c5",
+        "name": "Prime Habitat Co.",
+        "specializations": [
+          "luxury",
+          "furniture",
+          "lighting",
+          "bedroom"
+        ],
+        "rating": 4.9,
+        "reviews": 58,
+        "portfolio": "Premium residential interiors",
+        "base_multiplier": 1.32,
+        "match_score": 84,
+        "estimated_quote": 219000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c4",
+        "name": "BudgetHome Works",
+        "specializations": [
+          "painting",
+          "flooring",
+          "electrical",
+          "wall treatment"
+        ],
+        "rating": 4.2,
+        "reviews": 211,
+        "portfolio": "Budget renovations and quick-turnaround site work",
+        "base_multiplier": 0.86,
+        "match_score": 73,
+        "estimated_quote": 142000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c2",
+        "name": "KitchenCraft Studio",
+        "specializations": [
+          "kitchen",
+          "modular kitchen",
+          "storage",
+          "countertop"
+        ],
+        "rating": 4.8,
+        "reviews": 96,
+        "portfolio": "Modular kitchens and utility planning",
+        "base_multiplier": 1.16,
+        "match_score": 72,
+        "estimated_quote": 192000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c3",
+        "name": "SpaceLine Designs",
+        "specializations": [
+          "minimal",
+          "wardrobe",
+          "false ceiling",
+          "lighting"
+        ],
+        "rating": 4.5,
+        "reviews": 74,
+        "portfolio": "Minimal interiors with practical storage",
+        "base_multiplier": 0.98,
+        "match_score": 67,
+        "estimated_quote": 162000,
+        "quote_note": "Includes design consultation and scope validation."
+      }
+    ]
+  },
+  {
+    "id": "17d7e15c-bb1e-4255-9a0e-31019d6062ac",
+    "created_at": "2026-04-23T13:40:17.865908+00:00",
+    "client_name": "Demo Client",
+    "project_title": "Modern Living Room Upgrade",
+    "room_type": "Living Room",
+    "location": "Manipal",
+    "description": "I need a modern living room with warm lighting, wall panels, storage, repainting, and durable furniture. Budget should stay controlled and the work should be completed soon.",
+    "measurements": {
+      "length_ft": 14.0,
+      "width_ft": 12.0,
+      "height_ft": 10.0
+    },
+    "image_analysis": [],
+    "requirements": {
+      "detected_rooms": [
+        "living room"
+      ],
+      "style_preferences": [
+        "modern"
+      ],
+      "work_items": [
+        "painting",
+        "lighting",
+        "furniture",
+        "wall treatment",
+        "storage"
+      ],
+      "priorities": [
+        "storage",
+        "lighting",
+        "budget",
+        "durable"
+      ],
+      "timeline": "urgent",
+      "budget_mentions": [],
+      "structured_summary": "Modern living room project covering painting, lighting, furniture, wall treatment, with focus on storage, lighting, budget."
+    },
+    "budget_analysis": {
+      "area_sqft": 168.0,
+      "wall_area_sqft": 520.0,
+      "project_size": "standard",
+      "budget": 180000.0,
+      "budget_per_sqft": 1071.43,
+      "budget_category": "medium",
+      "feasibility_score": 55,
+      "feasibility": "workable",
+      "recommendation": "Budget appears workable; finalize material grades before quotation."
+    },
+    "recommendations": [
+      "Budget appears workable; finalize material grades before quotation.",
+      "Validate wall dimensions and usable depth before finalizing storage modules.",
+      "Add at least two room photos to improve visual analysis quality."
+    ],
+    "contractor_discovery": {
+      "signal": "Contractor Discovery Confidence",
+      "score": 70,
+      "level": "medium",
+      "impact": "Quoted scope quality drops when room constraints are inferred from sparse imagery.",
+      "action": "Ask contractors for site validation before final quote."
+    },
+    "marketplace_listing": {
+      "status": "conceptual listing generated",
+      "visible_to_contractors": true,
+      "quote_release_gate": "geometry validation recommended"
+    },
+    "contractor_matches": [
+      {
+        "id": "c1",
+        "name": "UrbanNest Interiors",
+        "specializations": [
+          "living room",
+          "bedroom",
+          "lighting",
+          "furniture"
+        ],
+        "rating": 4.7,
+        "reviews": 128,
+        "portfolio": "Modern apartments and compact family homes",
+        "base_multiplier": 1.08,
+        "match_score": 92,
+        "estimated_quote": 179000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c5",
+        "name": "Prime Habitat Co.",
+        "specializations": [
+          "luxury",
+          "furniture",
+          "lighting",
+          "bedroom"
+        ],
+        "rating": 4.9,
+        "reviews": 58,
+        "portfolio": "Premium residential interiors",
+        "base_multiplier": 1.32,
+        "match_score": 84,
+        "estimated_quote": 219000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c4",
+        "name": "BudgetHome Works",
+        "specializations": [
+          "painting",
+          "flooring",
+          "electrical",
+          "wall treatment"
+        ],
+        "rating": 4.2,
+        "reviews": 211,
+        "portfolio": "Budget renovations and quick-turnaround site work",
+        "base_multiplier": 0.86,
+        "match_score": 73,
+        "estimated_quote": 142000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c2",
+        "name": "KitchenCraft Studio",
+        "specializations": [
+          "kitchen",
+          "modular kitchen",
+          "storage",
+          "countertop"
+        ],
+        "rating": 4.8,
+        "reviews": 96,
+        "portfolio": "Modular kitchens and utility planning",
+        "base_multiplier": 1.16,
+        "match_score": 72,
+        "estimated_quote": 192000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c3",
+        "name": "SpaceLine Designs",
+        "specializations": [
+          "minimal",
+          "wardrobe",
+          "false ceiling",
+          "lighting"
+        ],
+        "rating": 4.5,
+        "reviews": 74,
+        "portfolio": "Minimal interiors with practical storage",
+        "base_multiplier": 0.98,
+        "match_score": 67,
+        "estimated_quote": 162000,
+        "quote_note": "Includes design consultation and scope validation."
+      }
+    ]
+  },
+  {
+    "id": "dc8ad45c-e986-4f1a-b481-c9efbfb5ae6d",
+    "created_at": "2026-04-23T13:27:51.007802+00:00",
+    "client_name": "Demo Client",
+    "project_title": "Modern Living Room Upgrade",
+    "room_type": "Living Room",
+    "location": "Manipal",
+    "description": "I need a modern living room with warm lighting, wall panels, storage, repainting, and durable furniture. Budget should stay controlled and the work should be completed soon.",
+    "measurements": {
+      "length_ft": 14.0,
+      "width_ft": 12.0,
+      "height_ft": 10.0
+    },
+    "image_analysis": [
+      {
+        "file": "dc8ad45c-e986-4f1a-b481-c9efbfb5ae6d-1.jpeg",
+        "url": "/uploads/dc8ad45c-e986-4f1a-b481-c9efbfb5ae6d-1.jpeg",
+        "resolution": {
+          "width": 1599,
+          "height": 1200
+        },
+        "lighting": "moderate",
+        "brightness": 162.1,
+        "contrast": 21.3,
+        "dominant_colors": [
+          "grey",
+          "black",
+          "mixed neutral",
+          "red/terracotta"
+        ],
+        "layout_complexity": "low",
+        "edge_density": 4,
+        "surface_material_hints": [
+          "painted wall, tile, or concrete-like surface"
+        ],
+        "image_quality": "good"
+      }
+    ],
+    "requirements": {
+      "detected_rooms": [
+        "living room"
+      ],
+      "style_preferences": [
+        "modern"
+      ],
+      "work_items": [
+        "painting",
+        "lighting",
+        "furniture",
+        "wall treatment",
+        "storage"
+      ],
+      "priorities": [
+        "storage",
+        "lighting",
+        "budget",
+        "durable"
+      ],
+      "timeline": "urgent",
+      "budget_mentions": [],
+      "structured_summary": "Modern living room project covering painting, lighting, furniture, wall treatment, with focus on storage, lighting, budget."
+    },
+    "budget_analysis": {
+      "area_sqft": 168.0,
+      "wall_area_sqft": 520.0,
+      "project_size": "standard",
+      "budget": 180000.0,
+      "budget_per_sqft": 1071.43,
+      "budget_category": "medium",
+      "feasibility_score": 55,
+      "feasibility": "workable",
+      "recommendation": "Budget appears workable; finalize material grades before quotation."
+    },
+    "recommendations": [
+      "Budget appears workable; finalize material grades before quotation.",
+      "Validate wall dimensions and usable depth before finalizing storage modules."
+    ],
+    "contractor_discovery": {
+      "signal": "Contractor Discovery Confidence",
+      "score": 82,
+      "level": "high",
+      "impact": "Quoted scope quality drops when room constraints are inferred from sparse imagery.",
+      "action": "Ready for contractor shortlisting."
+    },
+    "marketplace_listing": {
+      "status": "conceptual listing generated",
+      "visible_to_contractors": true,
+      "quote_release_gate": "ready for quote release"
+    },
+    "contractor_matches": [
+      {
+        "id": "c1",
+        "name": "UrbanNest Interiors",
+        "specializations": [
+          "living room",
+          "bedroom",
+          "lighting",
+          "furniture"
+        ],
+        "rating": 4.7,
+        "reviews": 128,
+        "portfolio": "Modern apartments and compact family homes",
+        "base_multiplier": 1.08,
+        "match_score": 92,
+        "estimated_quote": 179000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c5",
+        "name": "Prime Habitat Co.",
+        "specializations": [
+          "luxury",
+          "furniture",
+          "lighting",
+          "bedroom"
+        ],
+        "rating": 4.9,
+        "reviews": 58,
+        "portfolio": "Premium residential interiors",
+        "base_multiplier": 1.32,
+        "match_score": 84,
+        "estimated_quote": 219000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c4",
+        "name": "BudgetHome Works",
+        "specializations": [
+          "painting",
+          "flooring",
+          "electrical",
+          "wall treatment"
+        ],
+        "rating": 4.2,
+        "reviews": 211,
+        "portfolio": "Budget renovations and quick-turnaround site work",
+        "base_multiplier": 0.86,
+        "match_score": 73,
+        "estimated_quote": 142000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c2",
+        "name": "KitchenCraft Studio",
+        "specializations": [
+          "kitchen",
+          "modular kitchen",
+          "storage",
+          "countertop"
+        ],
+        "rating": 4.8,
+        "reviews": 96,
+        "portfolio": "Modular kitchens and utility planning",
+        "base_multiplier": 1.16,
+        "match_score": 72,
+        "estimated_quote": 192000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c3",
+        "name": "SpaceLine Designs",
+        "specializations": [
+          "minimal",
+          "wardrobe",
+          "false ceiling",
+          "lighting"
+        ],
+        "rating": 4.5,
+        "reviews": 74,
+        "portfolio": "Minimal interiors with practical storage",
+        "base_multiplier": 0.98,
+        "match_score": 67,
+        "estimated_quote": 162000,
+        "quote_note": "Includes design consultation and scope validation."
+      }
+    ]
+  },
+  {
+    "id": "c9f2e7f5-68f2-449b-a702-88bfded1e9b8",
+    "created_at": "2026-04-23T13:13:08.780905+00:00",
+    "client_name": "Demo Client",
+    "project_title": "Modern Living Room Upgrade",
+    "room_type": "Living Room",
+    "location": "Manipal",
+    "description": "I need a modern living room with warm lighting, wall panels, storage, repainting, and durable furniture. Budget should stay controlled and the work should be completed soon.",
+    "measurements": {
+      "length_ft": 14.0,
+      "width_ft": 12.0,
+      "height_ft": 10.0
+    },
+    "image_analysis": [
+      {
+        "file": "c9f2e7f5-68f2-449b-a702-88bfded1e9b8-1.jpeg",
+        "url": "/uploads/c9f2e7f5-68f2-449b-a702-88bfded1e9b8-1.jpeg",
+        "resolution": {
+          "width": 1599,
+          "height": 1200
+        },
+        "lighting": "moderate",
+        "brightness": 162.1,
+        "contrast": 21.3,
+        "dominant_colors": [
+          "grey",
+          "black",
+          "mixed neutral",
+          "red/terracotta"
+        ],
+        "layout_complexity": "low",
+        "edge_density": 4,
+        "surface_material_hints": [
+          "painted wall, tile, or concrete-like surface"
+        ],
+        "image_quality": "good"
+      }
+    ],
+    "requirements": {
+      "detected_rooms": [
+        "living room"
+      ],
+      "style_preferences": [
+        "modern"
+      ],
+      "work_items": [
+        "painting",
+        "lighting",
+        "furniture",
+        "wall treatment",
+        "storage"
+      ],
+      "priorities": [
+        "storage",
+        "lighting",
+        "budget",
+        "durable"
+      ],
+      "timeline": "urgent",
+      "budget_mentions": [],
+      "structured_summary": "Modern living room project covering painting, lighting, furniture, wall treatment, with focus on storage, lighting, budget."
+    },
+    "budget_analysis": {
+      "area_sqft": 168.0,
+      "wall_area_sqft": 520.0,
+      "project_size": "standard",
+      "budget": 180000.0,
+      "budget_per_sqft": 1071.43,
+      "budget_category": "medium",
+      "feasibility_score": 55,
+      "feasibility": "workable",
+      "recommendation": "Budget appears workable; finalize material grades before quotation."
+    },
+    "recommendations": [
+      "Budget appears workable; finalize material grades before quotation.",
+      "Validate wall dimensions and usable depth before finalizing storage modules."
+    ],
+    "contractor_discovery": {
+      "signal": "Contractor Discovery Confidence",
+      "score": 82,
+      "level": "high",
+      "impact": "Quoted scope quality drops when room constraints are inferred from sparse imagery.",
+      "action": "Ready for contractor shortlisting."
+    },
+    "marketplace_listing": {
+      "status": "conceptual listing generated",
+      "visible_to_contractors": true,
+      "quote_release_gate": "ready for quote release"
+    },
+    "contractor_matches": [
+      {
+        "id": "c1",
+        "name": "UrbanNest Interiors",
+        "specializations": [
+          "living room",
+          "bedroom",
+          "lighting",
+          "furniture"
+        ],
+        "rating": 4.7,
+        "reviews": 128,
+        "portfolio": "Modern apartments and compact family homes",
+        "base_multiplier": 1.08,
+        "match_score": 92,
+        "estimated_quote": 179000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c5",
+        "name": "Prime Habitat Co.",
+        "specializations": [
+          "luxury",
+          "furniture",
+          "lighting",
+          "bedroom"
+        ],
+        "rating": 4.9,
+        "reviews": 58,
+        "portfolio": "Premium residential interiors",
+        "base_multiplier": 1.32,
+        "match_score": 84,
+        "estimated_quote": 219000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c4",
+        "name": "BudgetHome Works",
+        "specializations": [
+          "painting",
+          "flooring",
+          "electrical",
+          "wall treatment"
+        ],
+        "rating": 4.2,
+        "reviews": 211,
+        "portfolio": "Budget renovations and quick-turnaround site work",
+        "base_multiplier": 0.86,
+        "match_score": 73,
+        "estimated_quote": 142000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c2",
+        "name": "KitchenCraft Studio",
+        "specializations": [
+          "kitchen",
+          "modular kitchen",
+          "storage",
+          "countertop"
+        ],
+        "rating": 4.8,
+        "reviews": 96,
+        "portfolio": "Modular kitchens and utility planning",
+        "base_multiplier": 1.16,
+        "match_score": 72,
+        "estimated_quote": 192000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c3",
+        "name": "SpaceLine Designs",
+        "specializations": [
+          "minimal",
+          "wardrobe",
+          "false ceiling",
+          "lighting"
+        ],
+        "rating": 4.5,
+        "reviews": 74,
+        "portfolio": "Minimal interiors with practical storage",
+        "base_multiplier": 0.98,
+        "match_score": 67,
+        "estimated_quote": 162000,
+        "quote_note": "Includes design consultation and scope validation."
+      }
+    ]
+  },
+  {
+    "id": "fbd86319-1553-4009-8a83-bbb5af5a990c",
+    "created_at": "2026-04-23T13:02:14.594187+00:00",
+    "client_name": "Demo Client",
+    "project_title": "Modern Living Room Upgrade",
+    "room_type": "Living Room",
+    "location": "Manipal",
+    "description": "I need a modern living room with warm lighting, wall panels, storage, repainting, and durable furniture. Budget should stay controlled and the work should be completed soon.",
+    "measurements": {
+      "length_ft": 14.0,
+      "width_ft": 12.0,
+      "height_ft": 10.0
+    },
+    "image_analysis": [],
+    "requirements": {
+      "detected_rooms": [
+        "living room"
+      ],
+      "style_preferences": [
+        "modern"
+      ],
+      "work_items": [
+        "painting",
+        "lighting",
+        "furniture",
+        "wall treatment",
+        "storage"
+      ],
+      "priorities": [
+        "storage",
+        "lighting",
+        "budget",
+        "durable"
+      ],
+      "timeline": "urgent",
+      "budget_mentions": [],
+      "structured_summary": "Modern living room project covering painting, lighting, furniture, wall treatment, with focus on storage, lighting, budget."
+    },
+    "budget_analysis": {
+      "area_sqft": 168.0,
+      "wall_area_sqft": 520.0,
+      "project_size": "standard",
+      "budget": 180000.0,
+      "budget_per_sqft": 1071.43,
+      "budget_category": "medium",
+      "feasibility_score": 55,
+      "feasibility": "workable",
+      "recommendation": "Budget appears workable; finalize material grades before quotation."
+    },
+    "recommendations": [
+      "Budget appears workable; finalize material grades before quotation.",
+      "Validate wall dimensions and usable depth before finalizing storage modules.",
+      "Add at least two room photos to improve visual analysis quality."
+    ],
+    "contractor_discovery": {
+      "signal": "Contractor Discovery Confidence",
+      "score": 70,
+      "level": "medium",
+      "impact": "Quoted scope quality drops when room constraints are inferred from sparse imagery.",
+      "action": "Ask contractors for site validation before final quote."
+    },
+    "marketplace_listing": {
+      "status": "conceptual listing generated",
+      "visible_to_contractors": true,
+      "quote_release_gate": "geometry validation recommended"
+    },
+    "contractor_matches": [
+      {
+        "id": "c1",
+        "name": "UrbanNest Interiors",
+        "specializations": [
+          "living room",
+          "bedroom",
+          "lighting",
+          "furniture"
+        ],
+        "rating": 4.7,
+        "reviews": 128,
+        "portfolio": "Modern apartments and compact family homes",
+        "base_multiplier": 1.08,
+        "match_score": 92,
+        "estimated_quote": 179000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c5",
+        "name": "Prime Habitat Co.",
+        "specializations": [
+          "luxury",
+          "furniture",
+          "lighting",
+          "bedroom"
+        ],
+        "rating": 4.9,
+        "reviews": 58,
+        "portfolio": "Premium residential interiors",
+        "base_multiplier": 1.32,
+        "match_score": 84,
+        "estimated_quote": 219000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c4",
+        "name": "BudgetHome Works",
+        "specializations": [
+          "painting",
+          "flooring",
+          "electrical",
+          "wall treatment"
+        ],
+        "rating": 4.2,
+        "reviews": 211,
+        "portfolio": "Budget renovations and quick-turnaround site work",
+        "base_multiplier": 0.86,
+        "match_score": 73,
+        "estimated_quote": 142000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c2",
+        "name": "KitchenCraft Studio",
+        "specializations": [
+          "kitchen",
+          "modular kitchen",
+          "storage",
+          "countertop"
+        ],
+        "rating": 4.8,
+        "reviews": 96,
+        "portfolio": "Modular kitchens and utility planning",
+        "base_multiplier": 1.16,
+        "match_score": 72,
+        "estimated_quote": 192000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c3",
+        "name": "SpaceLine Designs",
+        "specializations": [
+          "minimal",
+          "wardrobe",
+          "false ceiling",
+          "lighting"
+        ],
+        "rating": 4.5,
+        "reviews": 74,
+        "portfolio": "Minimal interiors with practical storage",
+        "base_multiplier": 0.98,
+        "match_score": 67,
+        "estimated_quote": 162000,
+        "quote_note": "Includes design consultation and scope validation."
+      }
+    ]
+  },
+  {
+    "id": "05402a5e-bfde-4bab-a2da-b7d57736b464",
+    "created_at": "2026-04-23T12:57:23.353251+00:00",
+    "client_name": "Demo Client",
+    "project_title": "Modern Living Room Upgrade",
+    "room_type": "Living Room",
+    "location": "Manipal",
+    "description": "I need a modern living room with warm lighting, wall panels, storage, repainting, and durable furniture. Budget should stay controlled and the work should be completed soon.",
+    "measurements": {
+      "length_ft": 14.0,
+      "width_ft": 12.0,
+      "height_ft": 10.0
+    },
+    "image_analysis": [],
+    "requirements": {
+      "detected_rooms": [
+        "living room"
+      ],
+      "style_preferences": [
+        "modern"
+      ],
+      "work_items": [
+        "painting",
+        "lighting",
+        "furniture",
+        "wall treatment",
+        "storage"
+      ],
+      "priorities": [
+        "storage",
+        "lighting",
+        "budget",
+        "durable"
+      ],
+      "timeline": "urgent",
+      "budget_mentions": [],
+      "structured_summary": "Modern living room project covering painting, lighting, furniture, wall treatment, with focus on storage, lighting, budget."
+    },
+    "budget_analysis": {
+      "area_sqft": 168.0,
+      "wall_area_sqft": 520.0,
+      "project_size": "standard",
+      "budget": 180000.0,
+      "budget_per_sqft": 1071.43,
+      "budget_category": "medium",
+      "feasibility_score": 55,
+      "feasibility": "workable",
+      "recommendation": "Budget appears workable; finalize material grades before quotation."
+    },
+    "recommendations": [
+      "Budget appears workable; finalize material grades before quotation.",
+      "Validate wall dimensions and usable depth before finalizing storage modules.",
+      "Add at least two room photos to improve visual analysis quality."
+    ],
+    "contractor_discovery": {
+      "signal": "Contractor Discovery Confidence",
+      "score": 70,
+      "level": "medium",
+      "impact": "Quoted scope quality drops when room constraints are inferred from sparse imagery.",
+      "action": "Ask contractors for site validation before final quote."
+    },
+    "marketplace_listing": {
+      "status": "conceptual listing generated",
+      "visible_to_contractors": true,
+      "quote_release_gate": "geometry validation recommended"
+    },
+    "contractor_matches": [
+      {
+        "id": "c1",
+        "name": "UrbanNest Interiors",
+        "specializations": [
+          "living room",
+          "bedroom",
+          "lighting",
+          "furniture"
+        ],
+        "rating": 4.7,
+        "reviews": 128,
+        "portfolio": "Modern apartments and compact family homes",
+        "base_multiplier": 1.08,
+        "match_score": 92,
+        "estimated_quote": 179000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c5",
+        "name": "Prime Habitat Co.",
+        "specializations": [
+          "luxury",
+          "furniture",
+          "lighting",
+          "bedroom"
+        ],
+        "rating": 4.9,
+        "reviews": 58,
+        "portfolio": "Premium residential interiors",
+        "base_multiplier": 1.32,
+        "match_score": 84,
+        "estimated_quote": 219000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c4",
+        "name": "BudgetHome Works",
+        "specializations": [
+          "painting",
+          "flooring",
+          "electrical",
+          "wall treatment"
+        ],
+        "rating": 4.2,
+        "reviews": 211,
+        "portfolio": "Budget renovations and quick-turnaround site work",
+        "base_multiplier": 0.86,
+        "match_score": 73,
+        "estimated_quote": 142000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c2",
+        "name": "KitchenCraft Studio",
+        "specializations": [
+          "kitchen",
+          "modular kitchen",
+          "storage",
+          "countertop"
+        ],
+        "rating": 4.8,
+        "reviews": 96,
+        "portfolio": "Modular kitchens and utility planning",
+        "base_multiplier": 1.16,
+        "match_score": 72,
+        "estimated_quote": 192000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c3",
+        "name": "SpaceLine Designs",
+        "specializations": [
+          "minimal",
+          "wardrobe",
+          "false ceiling",
+          "lighting"
+        ],
+        "rating": 4.5,
+        "reviews": 74,
+        "portfolio": "Minimal interiors with practical storage",
+        "base_multiplier": 0.98,
+        "match_score": 67,
+        "estimated_quote": 162000,
+        "quote_note": "Includes design consultation and scope validation."
+      }
+    ]
+  },
+  {
+    "id": "03c9e455-af0c-4306-b09d-8cbd5257cb6f",
+    "created_at": "2026-04-22T16:54:03.224365+00:00",
+    "client_name": "Test Client",
+    "project_title": "Test Living Room",
+    "room_type": "Living Room",
+    "location": "Manipal",
+    "description": "Modern living room with warm lighting, storage, wall panels and painting soon",
+    "measurements": {
+      "length_ft": 14.0,
+      "width_ft": 12.0,
+      "height_ft": 10.0
+    },
+    "image_analysis": [
+      {
+        "file": "03c9e455-af0c-4306-b09d-8cbd5257cb6f-1.jpg",
+        "url": "/uploads/03c9e455-af0c-4306-b09d-8cbd5257cb6f-1.jpg",
+        "resolution": {
+          "width": 1000,
+          "height": 750
+        },
+        "lighting": "well-lit",
+        "brightness": 206.7,
+        "contrast": 0.0,
+        "dominant_colors": [
+          "mixed neutral"
+        ],
+        "layout_complexity": "low",
+        "edge_density": 0,
+        "surface_material_hints": [
+          "mixed interior surfaces"
+        ],
+        "image_quality": "needs clearer photo"
+      }
+    ],
+    "requirements": {
+      "detected_rooms": [
+        "living room"
+      ],
+      "style_preferences": [
+        "modern"
+      ],
+      "work_items": [
+        "painting",
+        "lighting",
+        "wall treatment",
+        "storage"
+      ],
+      "priorities": [
+        "storage",
+        "lighting"
+      ],
+      "timeline": "urgent",
+      "budget_mentions": [],
+      "structured_summary": "Modern living room project covering painting, lighting, wall treatment, storage, with focus on storage, lighting."
+    },
+    "budget_analysis": {
+      "area_sqft": 168.0,
+      "wall_area_sqft": 520.0,
+      "project_size": "standard",
+      "budget": 180000.0,
+      "budget_per_sqft": 1071.43,
+      "budget_category": "medium",
+      "feasibility_score": 67,
+      "feasibility": "workable",
+      "recommendation": "Budget appears workable; finalize material grades before quotation."
+    },
+    "recommendations": [
+      "Budget appears workable; finalize material grades before quotation.",
+      "Upload clearer site photos for stronger contractor discovery confidence.",
+      "Validate wall dimensions and usable depth before finalizing storage modules."
+    ],
+    "contractor_discovery": {
+      "signal": "Contractor Discovery Confidence",
+      "score": 70,
+      "level": "medium",
+      "impact": "Quoted scope quality drops when room constraints are inferred from sparse imagery.",
+      "action": "Ask contractors for site validation before final quote."
+    },
+    "marketplace_listing": {
+      "status": "conceptual listing generated",
+      "visible_to_contractors": true,
+      "quote_release_gate": "geometry validation recommended"
+    },
+    "contractor_matches": [
+      {
+        "id": "c1",
+        "name": "UrbanNest Interiors",
+        "specializations": [
+          "living room",
+          "bedroom",
+          "lighting",
+          "furniture"
+        ],
+        "rating": 4.7,
+        "reviews": 128,
+        "portfolio": "Modern apartments and compact family homes",
+        "base_multiplier": 1.08,
+        "match_score": 81,
+        "estimated_quote": 179000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c4",
+        "name": "BudgetHome Works",
+        "specializations": [
+          "painting",
+          "flooring",
+          "electrical",
+          "wall treatment"
+        ],
+        "rating": 4.2,
+        "reviews": 211,
+        "portfolio": "Budget renovations and quick-turnaround site work",
+        "base_multiplier": 0.86,
+        "match_score": 73,
+        "estimated_quote": 142000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c5",
+        "name": "Prime Habitat Co.",
+        "specializations": [
+          "luxury",
+          "furniture",
+          "lighting",
+          "bedroom"
+        ],
+        "rating": 4.9,
+        "reviews": 58,
+        "portfolio": "Premium residential interiors",
+        "base_multiplier": 1.32,
+        "match_score": 73,
+        "estimated_quote": 219000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c2",
+        "name": "KitchenCraft Studio",
+        "specializations": [
+          "kitchen",
+          "modular kitchen",
+          "storage",
+          "countertop"
+        ],
+        "rating": 4.8,
+        "reviews": 96,
+        "portfolio": "Modular kitchens and utility planning",
+        "base_multiplier": 1.16,
+        "match_score": 72,
+        "estimated_quote": 192000,
+        "quote_note": "Includes design consultation and scope validation."
+      },
+      {
+        "id": "c3",
+        "name": "SpaceLine Designs",
+        "specializations": [
+          "minimal",
+          "wardrobe",
+          "false ceiling",
+          "lighting"
+        ],
+        "rating": 4.5,
+        "reviews": 74,
+        "portfolio": "Minimal interiors with practical storage",
+        "base_multiplier": 0.98,
+        "match_score": 67,
+        "estimated_quote": 162000,
+        "quote_note": "Includes design consultation and scope validation."
+      }
+    ]
+  }
+]
