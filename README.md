@@ -47,6 +47,46 @@ The API health check is available at:
 http://127.0.0.1:8000/api/health
 ```
 
+  ## How to Run This Project
+
+  ### 1. Clone the repository
+
+  Steps to run this project:
+  
+  git clone <YOUR_GITHUB_REPO_LINK>
+  cd <REPOSITORY_FOLDER_NAME>
+
+  ### 2. Install backend dependencies
+
+  From the project root folder, run:
+
+  python -m pip install -r backend/requirements.txt
+
+  ### 3. Start the backend server
+
+  python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000
+
+  Keep this terminal open.
+
+  ### 4. Open a new terminal and start the frontend
+
+  cd frontend
+  npm install
+  npm run dev
+
+  ### 5. Open the app in browser
+
+  http://localhost:3000
+
+  ### Notes
+
+  - Backend runs on: http://127.0.0.1:8000
+  - Frontend runs on: http://localhost:3000
+  - If port 3000 or 8000 is already busy, stop the old process and run again.
+
+
+  If you want, I can also give you an even cleaner **5-line version** for GitHub.
+
 ## Demo Flow
 
 1. Enter room, measurement, budget, and requirement details.
